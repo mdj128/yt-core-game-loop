@@ -10,10 +10,9 @@ The project demonstrates:
 
 This project accompanies a step-by-step walkthrough on YouTube where the full loop is built and explained.
 
-👉 [*Core Game Loop*](https://youtu.be/EM15lvCiexY)
+👉 [*Core Game Loop*](https://www.youtube.com/watch?v=TaEOnaX_eRU)
 
 ![alt text](core_loop.png)
-
 
 This repo is intended as a **learning and reference project**, created alongside a YouTube walkthrough.
 
