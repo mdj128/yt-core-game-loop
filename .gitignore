@@ -1,0 +1,86 @@
+# Unity 6.x / 2023+ typical ignores
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Generated project files
+.vs/
+.vsconfig
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Unity cache / artifacts
+[Aa]sset[Ss]tore*/
+[Aa]sset[Ss]tore[Aa]ssets*/
+*.unityproj
+*.tmp
+*.bak
+*.old
+*.orig
+*.mdb
+*.mdb.meta
+
+# TextMesh Pro
+[Tt]ext[Mm]esh [Pp]ro/Fonts/*
+
+# Crash/Profiler
+sysinfo.txt
+*.stacktrace
+
+# Plastic / Collaborate
+PlasticAssets/
+Collab/
+
+# Local env overrides
+.env
+
+# Rider / JetBrains
+.idea/
+*.DotSettings.user
+
+# VSCode
+.vscode/
+
+# Gradle / Android
+.gradle/
+*.apk
+*.aab
+*.keystore
+
+# iOS
+DerivedData/
+
+# Addressables
+[Aa]ssets/AddressableAssetsData/*/*.bin*
+[Aa]ssets/AddressableAssetsData/*/*.hash
+[Aa]ssets/AddressableAssetsData/*/library/*
+[Aa]ssets/StreamingAssets/aa/*
+
+# Physics / NavMesh
+[Aa]ssets/**/NavMesh*
+[Aa]ssets/**/NavMesh*/**/*
+
+# CacheServer
+[Cc]ache/
+
+# Third‑party art/content we exclude from the repo
+Assets/DoubleL/
+Assets/TriForge*/
+Assets/TriForge Assets.meta
+Assets/Fantasy Forest*/
+Assets/Fantasy Forest Environment Free Sample.meta
+Assets/HeroCharacter/
+Assets/Kevin Iglesias/
