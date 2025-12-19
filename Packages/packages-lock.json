@@ -1,12 +1,13 @@
 {
   "dependencies": {
     "com.herocharacter.herocombat": {
-      "version": "file:D:/Users/mdj12/Documents/UnityProject/My_Packages/hero-combat-controller",
+      "version": "https://github.com/mdj128/hero-combat-controller.git",
       "depth": 0,
-      "source": "local",
+      "source": "git",
       "dependencies": {
         "com.unity.inputsystem": "1.5.0"
-      }
+      },
+      "hash": "8c690b67a667a8ec7cee42e4a94eddd980d8ff82"
     },
     "com.unity.ai.navigation": {
       "version": "2.0.9",

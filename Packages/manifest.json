@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.herocharacter.herocombat": "file:D:/Users/mdj12/Documents/UnityProject/My_Packages/hero-combat-controller",
+    "com.herocharacter.herocombat": "https://github.com/mdj128/hero-combat-controller.git",
     "com.unity.ai.navigation": "2.0.9",
     "com.unity.cloud.gltfast": "6.15.1",
     "com.unity.collab-proxy": "2.10.2",
