@@ -27,33 +27,32 @@ Open the project using a matching Unity 6000.3.x editor to avoid upgrade prompts
 
 ---
 
+## Getting Started
+
+1. Clone this repository.
+2. Open Unity Hub and select **Unity 6000.3.x**.
+3. Add the yt-core-game-loop folder from Disk
+4. Open the project folder in Unity.
+5. Import the third-party assets listed below into the `Assets/` folder.
+6. For Stylized Forest, make sure to import `Assets/TriForge Assets/_URP Content - Fantasy Worlds - Old Forest DEMO.unitypackage`
+6. Open `/Assets/Scenes/CoreLoop.Unity`
+7. Allow Unity to regenerate solution files and complete the initial domain reload.
+8. Open the main scene and press **Play**.
+9. If you get an error about Player Input, re-run Hero Combat Controller Auto Wiring on the Colwyn object in the scene (see YouTube video for exact steps)
+
+---
+
 ## Third-Party Assets (Not Included)
 
 To keep this repository lightweight and license-compliant, **third-party asset packages are not included** in git.
 
 You’ll need to import the following assets locally before opening the project:
 
-- `Assets/DoubleL/`
-- `Assets/Fantasy Forest Environment/`
-- `Assets/HeroCharacter/`  
-  *(Hero Combat Controller package)*
-- `Assets/Kevin Iglesias/`  
-  *(Free animation packs from the Unity Asset Store)*
-
-These assets should be imported **into the same folder paths listed above** so that references resolve correctly.
-
-Links to all required assets are provided in the YouTube video description.
-
----
-
-## Getting Started
-
-1. Clone this repository.
-2. Open Unity Hub and select **Unity 6000.3.x**.
-3. Import the third-party assets listed above into the `Assets/` folder.
-4. Open the project folder in Unity.
-5. Allow Unity to regenerate solution files and complete the initial domain reload.
-6. Open the main scene and press **Play**.
+ - [Stylized Forest Environment](https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-worlds-forest-free-stylized-forest-environment-open-worl-282610)
+ - [Human Melee Animations](https://assetstore.unity.com/packages/3d/animations/human-melee-animations-free-165785)
+ - [Human Basic Motions](https://assetstore.unity.com/packages/3d/animations/human-basic-motions-free-154271)
+ - [RPG Animation Pack](https://assetstore.unity.com/packages/3d/animations/rpg-animations-pack-free-288783)
+ - [Hero Combat Controller](https://github.com/mdj128/hero-combat-controller.git)
 
 ---
 
